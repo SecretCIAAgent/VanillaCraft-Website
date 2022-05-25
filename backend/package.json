@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "VanillaCraft backend.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SecretCIAAgent/VanillaCraft-Website.git"
+  },
+  "keywords": [
+    "express",
+    "prisma",
+    "typescript"
+  ],
+  "author": "Cold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SecretCIAAgent/VanillaCraft-Website/issues"
+  },
+  "homepage": "https://github.com/SecretCIAAgent/VanillaCraft-Website#readme"
+}
