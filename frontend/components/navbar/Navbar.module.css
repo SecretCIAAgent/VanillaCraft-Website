@@ -1,0 +1,29 @@
+.navRoot {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 60px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navTitle {
+    margin: 0 20px;
+}
+
+.navTitle h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.navLinks {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 15px;
+    gap: 20px;
+}
